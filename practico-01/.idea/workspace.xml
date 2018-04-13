@@ -10,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ejercicio-15.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ejercicio-15.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ejercicio-14.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ejercicio-14.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+            <state relative-caret-position="527">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -45,12 +45,12 @@
         <option value="$PROJECT_DIR$/ejercicio-11.py" />
         <option value="$PROJECT_DIR$/ejercicio-12.py" />
         <option value="$PROJECT_DIR$/ejercicio-13.py" />
-        <option value="$PROJECT_DIR$/ejercicio-14.py" />
         <option value="$PROJECT_DIR$/ejercicio-15.py" />
+        <option value="$PROJECT_DIR$/ejercicio-14.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -96,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ejercicio-15">
+  <component name="RunManager" selected="Python.ejercicio-14">
     <configuration name="ejercicio-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="practico-01" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,8 +196,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ejercicio-15" />
         <item itemvalue="Python.ejercicio-14" />
+        <item itemvalue="Python.ejercicio-15" />
         <item itemvalue="Python.ejercicio-12" />
         <item itemvalue="Python.ejercicio-11" />
         <item itemvalue="Python.ejercicio-10" />
@@ -208,7 +208,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
@@ -236,6 +236,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ejercicio-14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio-14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio-14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -341,17 +355,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio-14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ejercicio-15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio-14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
         </state>
       </provider>
     </entry>
