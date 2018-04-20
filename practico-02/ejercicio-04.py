@@ -36,6 +36,7 @@ class Estudiante(Persona):
         return round(self.materias_aprobadas*100/self.materias_carrera)
     def edad_ingreso(self):
         return self.edad - (date.today().year - self.anio_ingreso)
+
 x=Estudiante()
 x.nombre='Ale'
 x.sexo = 'a'
