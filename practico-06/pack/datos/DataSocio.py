@@ -1,4 +1,4 @@
-from entidades.Socio import Base, Socio
+from pack.entidades.Socio import Base, Socio
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
